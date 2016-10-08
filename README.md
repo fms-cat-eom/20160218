@@ -1,8 +1,10 @@
-# Everyday One Motion - 20160218 "Frequency Modulation Synthesis"
+# Everyday One Motion - 20160218  
 
-![](20160218.gif)
+"Frequency Modulation Synthesis"  
 
-Processing
+![](20160218.gif)  
+
+Processing  
 
 [Everyday One Motion](http://motions.work/motion/112)  
 
